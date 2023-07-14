@@ -1,0 +1,1 @@
+Node modules, also known as NPM modules, are packages of reusable JavaScript code that can be easily incorporated into Node.js applications. These modules are available through the Node Package Manager (NPM), which is a command-line tool used for installing, managing, and sharing JavaScript packages.
